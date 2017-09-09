@@ -1,0 +1,6 @@
+bson
+pymongo
+sklearn
+scipy
+networkx
+fuzzywuzzy
