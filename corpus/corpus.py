@@ -13,10 +13,10 @@ synonyms = [line.split(',') for line in synonyms]
 print synonyms
 print "%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%5"'''
 #scholorship
-with open("corpus/scholarship") as f:
-	text = f.read()
-scholarship = text.split('\n')
-scholarship = [line.split(',') for line in scholarship]
+# with open("corpus/scholarship") as f:
+# 	text = f.read()
+# scholarship = text.split('\n')
+# scholarship = [line.split(',') for line in scholarship]
 
 no_entity_replies = [
 	"Please! Ask me relevant questions.",
